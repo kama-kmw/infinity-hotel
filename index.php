@@ -17,7 +17,7 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <div class="hero-text">
-                        <h1>A Luxury Stay</h1>
+                        <!-- <h1>A Luxury Stay</h1> -->
                     </div>
                 </div>
             </div>
@@ -31,14 +31,14 @@
             <div class="row">
                 <div class="col-lg-12">
                     <form action="#" class="check-form">
-                        <h4>Check Availability</h4>
+                        <h4>Бронирование номеров</h4>
                         <div class="datepicker">
-                            <p>From</p>
+                            <p>Заезд</p>
                             <input type="text" class="datepicker-1" value="dd / mm / yyyy">
                             <img src="img/calendar.png" alt="">
                         </div>
                         <div class="datepicker">
-                            <p>To</p>
+                            <p>Выезд</p>
                             <input type="text" class="datepicker-2" value="dd / mm / yyyy">
                             <img src="img/calendar.png" alt="">
                         </div>
@@ -56,7 +56,7 @@
                                 <div class="pro-qty"><input type="text" value="0"></div>
                             </div>
                         </div>
-                        <div class="room-selector">
+                        <!-- <div class="room-selector">
                             <p>Room</p>
                             <select class="suit-select">
                                 <option>Eg. Master suite</option>
@@ -64,8 +64,8 @@
                                 <option value="">Single Room</option>
                                 <option value="">Special Room</option>
                             </select>
-                        </div>
-                        <button type="submit">Go</button>
+                        </div> -->
+                        <button type="submit">Найти номер</button>
                     </form>
                 </div>
             </div>
@@ -81,13 +81,9 @@
                     <div class="intro-left">
                         <div class="section-title">
                             <span>a memorable holliday</span>
-                            <h2>A great stay in a<br /> lovely hotel.</h2>
+                            <h2>Пару слов<br />  об отеле</h2>
                         </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo
-                            viverra maecenas. Donec in sodales dui, a blandit nunc. Pellentesque id eros venenatis,
-                            sollicitudin neque sodales, vehicula nibh. Nam massa odio, porttitor vitae efficitur non,
-                            ultricies volutpat tellus.</p>
+                        <p>Современный отель «Infinity» соответствует высокому стандарту и предлагает отличные условия для комфортного отдыха. Каждый наш номер оснащен всем необходимым, а дружелюбный и отзывчивый персонал поможет вам в любом вопросе..</p>
                     </div>
                 </div>
                 <div class="col-lg-6">
