@@ -11,7 +11,7 @@
                     <ul>
                         <li class="active"><a href="./index.html">Главная</a></li>
                         <li><a href="./about-us.html">О нас</a></li>
-                        <li><a href="rooms.html">Номера</a></li>
+                        <li><a href="rooms.php">Номера</a></li>
                         <!-- <li><a href="#">Pages</a>
                             <ul class="drop-menu">
                                 <li><a href="about-us.html">About Us</a></li>
