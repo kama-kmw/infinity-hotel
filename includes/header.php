@@ -9,8 +9,8 @@
                 </div>
                 <nav class="main-menu mobile-menu">
                     <ul>
-                        <li class="active"><a href="./index.html">Главная</a></li>
-                        <li><a href="./about-us.html">О нас</a></li>
+                        <li class="active"><a href="./index.php">Главная</a></li>
+                        <li><a href="about-us.html">О нас</a></li>
                         <li><a href="rooms.php">Номера</a></li>
                         <!-- <li><a href="#">Pages</a>
                             <ul class="drop-menu">
@@ -20,7 +20,7 @@
                             </ul>
                         </li> -->
                         <!-- <li><a href="./blog.html">News</a></li> -->
-                        <li><a href="./contact.html">Контакты</a></li>
+                        <li><a href="contact.php">Контакты</a></li>
                     </ul>
                 </nav>
                 <div id="mobile-menu-wrap"></div>
