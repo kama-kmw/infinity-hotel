@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="zxx">
-
-<?php include_once 'includes/head.php'; ?>
-
+<?php 
+$title_page = 'Номера Отель Инфинити';
+include_once 'includes/head.php'; ?>
 
 <body>
     <!-- Page Preloder -->
@@ -64,7 +64,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> 
     <!-- Search Filter Section End -->
 
     <!-- Room Section Begin -->

@@ -6,15 +6,15 @@
                         <h4>Бронирование номеров</h4>
                         <div class="datepicker">
                             <p>Заезд</p>
-                            <input type="text" class="datepicker-1" value="dd / mm / yyyy">
+                            <input type="text" class="datepicker-1" value="дд / мм / гггг">
                             <img src="img/calendar.png" alt="">
                         </div>
                         <div class="datepicker">
                             <p>Выезд</p>
-                            <input type="text" class="datepicker-2" value="dd / mm / yyyy">
+                            <input type="text" class="datepicker-2" value="дд / мм / гггг">
                             <img src="img/calendar.png" alt="">
                         </div>
-                        <div class="room-quantity">
+                        <!-- <div class="room-quantity">
                             <div class="single-quantity">
                                 <p>Adults</p>
                                 <div class="pro-qty"><input type="text" value="0"></div>
@@ -27,8 +27,8 @@
                                 <p>Rooms</p>
                                 <div class="pro-qty"><input type="text" value="0"></div>
                             </div>
-                        </div>
-                        <!-- <div class="room-selector">
+                        </div> -->
+                        <div class="room-selector">
                             <p>Room</p>
                             <select class="suit-select">
                                 <option>Eg. Master suite</option>
@@ -36,7 +36,7 @@
                                 <option value="">Single Room</option>
                                 <option value="">Special Room</option>
                             </select>
-                        </div> -->
+                        </div>
                         <button type="submit">Найти номер</button>
                     </form>
                 </div>

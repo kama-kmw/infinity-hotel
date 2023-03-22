@@ -1,10 +1,11 @@
 <head>
     <meta charset="UTF-8">
-    <meta name="description" content="Hotel Template">
+    <meta name="description" content="Каждый наш номер оснащен всем необходимым, а дружелюбный и отзывчивый персонал поможет вам в любом вопросе">
     <meta name="keywords" content="Hotel, unica, creative, html">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Europa Hotel & Spa | Template</title>
+    <title><?php echo $title_page?></title>
+
 
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css?family=Montserrat+Alternates:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">

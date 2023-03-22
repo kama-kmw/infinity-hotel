@@ -1,12 +1,9 @@
 <!DOCTYPE html>
-<html lang="zxx">
-<?php include_once 'includes/head.php'; ?>
+<html lang="ru">
+<?php 
+$title_page = 'Отель Инфинити';
+include_once 'includes/head.php'; ?>
 <body>
-    <!-- Page Preloder -->
-    <div id="preloder">
-        <div class="loader"></div>
-    </div>
-
     <!-- Header Section Begin -->
     <?php include 'includes/header.php'; ?>
     <!-- Header End -->
@@ -36,7 +33,7 @@
                 <div class="col-lg-6">
                     <div class="intro-left">
                         <div class="section-title">
-                            <span>infinity hotel</span>
+                            <span>infinity otel</span>
                             <h2>Пару слов<br />  об отеле</h2>
                         </div>
                         <p>Современный отель «Infinity» соответствует высокому стандарту и предлагает отличные условия для комфортного отдыха. Каждый наш номер оснащен всем необходимым, а дружелюбный и отзывчивый персонал поможет вам в любом вопросе.</p>
