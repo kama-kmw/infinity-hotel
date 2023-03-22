@@ -61,10 +61,38 @@
         navText: ['<i class="fa fa-angle-left"></i>', '<i class="fa fa-angle-right"></i>'],
         smartSpeed: 1200,
         autoHeight: false,
-        autoplay: false,
+        autoplay: true,
         onInitialized: function () {
             var a = this.items().length;
             $("#snh-1").html("<span>1</span><span>" + a + "</span>");
+        }
+    });
+
+    /*------------------
+        Feedback Slider
+    --------------------*/
+    var feed_s = $(".fb-sliders");
+    feed_s.owlCarousel({
+        loop: true,
+        margin: 0,
+        nav: false,
+        items: 1,
+        dots: true,
+        // animateOut: 'fadeOut',
+        // animateIn: 'fadeIn',
+        // navText: ['<i class="fa fa-angle-left"></i>', '<i class="fa fa-angle-right"></i>'],
+        navText: ['Предыдущий', 'Следующий'],
+        smartSpeed: 1000,
+        autoHeight: false,
+        autoplay: true,
+        onInitialized: function () {
+            var a = this.items().length;
+            $("#snh-1").html("<span>1</span><span>" + a + "</span>");
+        },
+        responsive: {
+            800: {
+                items: 2
+            }
         }
     });
 

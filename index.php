@@ -251,78 +251,7 @@ include_once 'includes/head.php'; ?>
     <!-- Facilities Section End -->
 
     <!-- Testimonial Section Begin -->
-    <section class="testimonial-section spad">
-        <div class="container">
-            <div class="row">
-                <div class="section-title">
-                    <h2>Отзывы</h2>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-6">
-                    <div class="testimonial-item">
-                        <div class="ti-time">
-                            27 / 08 / 2021
-                        </div>
-                        <h4>Всем советуем эту гостиницу!</h4>
-                        <div class="rating">
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star"></i>
-                        </div>
-                        <p>Всем советуем эту гостиницу!
-                            Фото соответствуют.Номер комфортный, светлый, всё цельное.По началу было далеко шагать до моря, но спустя пару дней поняла, что не далеко сооовсем(минут 15-20).Рядом есть 2 продуктовых магазина, что очень удобно.Кристально чистый бассейн, удобные лежаки.Вид с балкона завораживающий.В целом все было на высшем уровне, нам все понравилось, приедем в след.году ОБЯЗАТЕЛЬНО!.
-                        </p>
-                        <div class="ti-author">
-                            <!-- <div class="author-pic">
-                                <img src="img/author-1.png" alt="">
-                            </div> -->
-                            <div class="author-text">
-                                <h6>Даниил и Марина 
-                                    <!-- <span>Madrid</span> -->
-                                </h6>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="testimonial-item">
-                        <div class="ti-time">
-                            04 / 08 / 2021
-                        </div>
-                        <h4>Я еще вернусь!!!</h4>
-                        <div class="rating">
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star"></i>
-                        </div>
-                        <p>Большая благодарность Оле за тёплый приём, чистоту,  
-                            доброжелательность.
-                            Нам очень понравился отдых у Вас.
-                            Чисто, уютно, белоснежная постели, идеальные полотенца.
-                            Обязательно приедем ещё!
-                            .
-                        </p>
-                        <div class="ti-author">
-                            <!-- <div class="author-pic">
-                                <img src="img/author-2.png" alt="">
-                            </div> -->
-                            <div class="author-text">
-                                <h6>Марина
-                                     <!-- <span>Madrid</span> -->
-                                </h6>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Testimonial Section End -->
+    <?php include 'includes/feedback.php'; ?>
 
     <!-- Video Section Begin -->
     <div class="video-section">
@@ -475,6 +404,7 @@ include_once 'includes/head.php'; ?>
     <script src="js/owl.carousel.min.js"></script>
     <script src="js/main.js"></script>
     <script src="js/show-element.js"></script>
+    <script src="js/feedback.js"></script>
 </body>
 
 </html>

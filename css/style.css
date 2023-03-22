@@ -176,7 +176,9 @@ ol {
   background: #f9ad81;
   letter-spacing: 0.5px;
 }
-
+.primary-btn {
+	cursor: pointer;
+}
 .submit-btn {
   color: #ffffff;
   background: #82d026;
@@ -757,6 +759,7 @@ ol {
 
 .testimonial-section {
   padding-bottom: 60px;
+  padding-right: 15px;
 }
 
 .testimonial-section .section-title h2 {
@@ -2338,4 +2341,8 @@ ol {
 .policy-container {
   padding-top: 140px;
 
+}
+.flex__jc-sb {
+  display: flex;
+  justify-content: space-between;
 }
