@@ -21,7 +21,9 @@
                     <h5>Мы Вам перезвоним</h5>
                     <form action="" method="POST" class="newslatter-form">
                         <!-- <input type="text" class="newsletter_input" placeholder="Ваш телефон" required="required" name="footer-phone"> -->
-                        <button type="submit" name="footer-submit">Забронировать</button>
+                        <!-- <button type="submit" name="footer-submit">Забронировать</button> -->
+                        
+                        <a href="tel:+79283026100" class="">Забронировать</a>
                     </form>
                 </div>
                 <div class="footer-item">
@@ -44,7 +46,7 @@
                         п. Кабардинка
                         ул. Пионерская 27</li>
                         <!-- <li><img src="img/icon/phone.png" alt=""><a href="tel:+79064137777">+7 (906) 413-77-77</a></li> -->
-                        <li><img src="img/icon/phone.png" alt=""><a href="tel:+7283026100">8 (928) 302-61-00</a></li>
+                        <li><img src="img/icon/phone.png" alt=""><a href="tel:+79283026100">8 (928) 302-61-00</a></li>
                         <!-- <li><img src="img/icon/phone.png" alt=""><a href="tel:+78793454060">8 (87934) 5-40-60</a></li> -->
                     </ul>
                 </div>

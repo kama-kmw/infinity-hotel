@@ -1,14 +1,14 @@
 <!DOCTYPE html>
-<html lang="zxx">
+<html lang="ru">
 <?php 
-$title_page = 'Номера Отель Инфинити';
+$title_page = 'Номера Отеля Инфинити';
 include_once 'includes/head.php'; ?>
 
 <body>
     <!-- Page Preloder -->
-    <div id="preloder">
+    <!-- <div id="preloder">
         <div class="loader"></div>
-    </div>
+    </div> -->
 
     <!-- Header Section Begin -->
     <?php include 'includes/header.php'; ?>
@@ -21,22 +21,22 @@ include_once 'includes/head.php'; ?>
 
     <!-- Search Filter Section Begin -->
     <section class="search-filter other-page-filter">
-    <div class="container">
-            <div class="row">
+        <div class="container">
+         <div class="row">
                 <div class="col-lg-12">
                     <form action="#" class="check-form">
                         <h4>Бронирование номеров</h4>
                         <div class="datepicker">
                             <p>Заезд</p>
-                            <input type="text" class="datepicker-1" value="dd / mm / yyyy">
+                            <input type="text" class="datepicker-1" value="дд / мм / гггг">
                             <img src="img/calendar.png" alt="">
                         </div>
                         <div class="datepicker">
                             <p>Выезд</p>
-                            <input type="text" class="datepicker-2" value="dd / mm / yyyy">
+                            <input type="text" class="datepicker-2" value="дд / мм / гггг">
                             <img src="img/calendar.png" alt="">
                         </div>
-                        <div class="room-quantity">
+                        <!-- <div class="room-quantity">
                             <div class="single-quantity">
                                 <p>Adults</p>
                                 <div class="pro-qty"><input type="text" value="0"></div>
@@ -49,16 +49,18 @@ include_once 'includes/head.php'; ?>
                                 <p>Rooms</p>
                                 <div class="pro-qty"><input type="text" value="0"></div>
                             </div>
-                        </div>
-                        <!-- <div class="room-selector">
-                            <p>Room</p>
-                            <select class="suit-select">
-                                <option>Eg. Master suite</option>
-                                <option value="">Double Room</option>
-                                <option value="">Single Room</option>
-                                <option value="">Special Room</option>
-                            </select>
                         </div> -->
+                        <div class="room-selector">
+                            <p>Номера</p>
+                            <select class="suit-select">
+                                <option>выбрать номер</option>
+                                <option value="">Двухместный</option>
+                                <option value="">Трехместный</option>
+                                <option value="">Четырехместный</option>
+                                <option value="">Эконом класс</option>
+
+                            </select>
+                        </div>
                         <button type="submit">Найти номер</button>
                     </form>
                 </div>

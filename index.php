@@ -9,13 +9,15 @@ include_once 'includes/head.php'; ?>
     <!-- Header End -->
 
     <!-- Hero Area Section Begin -->
-    <section class="hero-area set-bg" data-setbg="img/hero-bg.jpg">
+    <section class="hero-area hero-area-main set-bg" data-setbg="img/baner2.jpeg">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <div class="hero-text">
-                        <!-- <h1>A Luxury Stay</h1> -->
+                        <h1>Скидка молодоженам на<br> медовый месяц  -10%</h1>
                     </div>
+                    <a href="#" class="primary-btn primary-btn-baner">Получить скидку</a>
+
                 </div>
             </div>
         </div>
@@ -90,7 +92,7 @@ include_once 'includes/head.php'; ?>
                         <span>до 23:00</span> 
                             
                     </p>
-                     <a href="#" class="primary-btn">Позвонить</a>
+                     <a href="tel:+79283026100" class="primary-btn">Позвонить</a>
                 </div>
             </div>
         </div>
@@ -102,7 +104,7 @@ include_once 'includes/head.php'; ?>
         <div class="container-fluid">
             <div class="row">
                 <div class="col-lg-6">
-                    <div class="facilities-item set-bg" data-setbg="img/faci-1.jpg">
+                    <div class="facilities-item set-bg" data-setbg="img/rooms/dvuhmestniy.jpeg">
                         <div class="fi-title">
                             <h2>Двухместный номер</h2>
                             <p>от 2000р/сутки</p>
@@ -132,13 +134,13 @@ include_once 'includes/head.php'; ?>
                                 <p>Трансфер</p>
                             </div>
                         </div>
-                            <a href="rooms.php" class="primary-btn">Подробнее</a>
+                            <a href="desc-rooms.php" class="primary-btn primary-btn-rooms">Подробнее</a>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-lg-6">
-                    <div class="facilities-item set-bg" data-setbg="img/faci-1.jpg">
+                    <div class="facilities-item set-bg" data-setbg="img/rooms/trehmestniy.jpeg">
                         <div class="fi-title">
                             <h2>Трехместный номер</h2>
                             <p>от 2500р/сутки</p>
@@ -168,13 +170,13 @@ include_once 'includes/head.php'; ?>
                                 <p>Трансфер</p>
                             </div>
                         </div>
-                            <a href="rooms.php" class="primary-btn">Подробнее</a>
+                            <a href="desc-rooms.php" class="primary-btn primary-btn-rooms">Подробнее</a>
                         </div>
                     </div>
                 </div>
                 
                 <div class="col-lg-6">
-                    <div class="facilities-item set-bg" data-setbg="img/faci-1.jpg">
+                    <div class="facilities-item set-bg" data-setbg="img/rooms/chetirehmestniy.jpeg">
                         <div class="fi-title">
                             <h2>Четырехместный номер</h2>
                             <p>от 3000р/сутки</p>
@@ -204,13 +206,13 @@ include_once 'includes/head.php'; ?>
                                 <p>Трансфер</p>
                             </div>
                         </div>
-                            <a href="rooms.php" class="primary-btn">Подробнее</a>
+                            <a href="desc-rooms.php" class="primary-btn primary-btn-rooms">Подробнее</a>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-lg-6">
-                    <div class="facilities-item set-bg" data-setbg="img/faci-1.jpg">
+                    <div class="facilities-item set-bg" data-setbg="img/rooms/dvuhmestniy.jpeg">
                         <div class="fi-title">
                             <h2>Номер эконом класса</h2>
                             <p>от 2000р/сутки</p>
@@ -240,7 +242,7 @@ include_once 'includes/head.php'; ?>
                                 <p>Трансфер</p>
                             </div>
                         </div>
-                            <a href="rooms.php" class="primary-btn">Подробнее</a>
+                            <a href="desc-rooms.php" class="primary-btn primary-btn-rooms">Подробнее</a>
                         </div>
                     </div>
                 </div>
@@ -290,43 +292,127 @@ include_once 'includes/head.php'; ?>
                         <div class="about-gallery">
                             <div class="">
                                 <div class="about-img">
-                                    <img src="img/home-about-1.jpg" alt="">
+                                    <img src="img/excursion/11.jpg" alt="">
                                     <p>Набережная</p>
                                 </div>
                             </div>
                             <div class="">
                                 <div class="about-img">
-                                    <img src="img/home-about-2.jpg" alt="">
+                                    <img src="img/excursion/2.jpeg" alt="">
                                     <p>Ледниковый период</p>
                                 </div>
                             </div>
                             <div class="">
                                 <div class="about-img">
-                                    <img src="img/home-about-3.jpg" alt="">
+                                    <img src="img/excursion/3.jpeg" alt="">
+                                    <p>Динопарк</p>
+                                </div>
+                            </div>
+                            <div class="">
+                                <div class="about-img">
+                                    <img src="img/excursion/4.jpg" alt="">
                                     <p>Дельфинарий</p>
                                 </div>
                             </div>
                             <div class="">
                                 <div class="about-img">
-                                    <img src="img/home-about-1.jpg" alt="">
+                                    <img src="img/excursion/20.jpg" alt="">
+                                    <p>Мастерская стекла</p>
+                                </div>
+                            </div>
+                            <div class="">
+                                <div class="about-img">
+                                    <img src="img/excursion/5.jpg" alt="">
+                                    <p>Культурный центр "Старый парк"</p>
+                                </div>
+                            </div>
+                            <div class="">
+                                <div class="about-img">
+                                    <img src="img/excursion/6.jpeg" alt="">
+                                    <p>Памятник погибшим на пароходе «Адмирал Нахимов»</p>
+                                </div>
+                            </div>
+                            <div class="">
+                                <div class="about-img">
+                                    <img src="img/excursion/7.jpg" alt="">
+                                    <p>Веревочный парк узелок»</p>
+                                </div>
+                            </div>
+                            <div class="">
+                                <div class="about-img">
+                                    <img src="img/excursion/8.jpeg" alt="">
+                                    <p>Крокодиловый каньон</p>
+                                </div>
+                            </div>
+                            <div class="">
+                                <div class="about-img">
+                                    <img src="img/excursion/9.jpg" alt="">
+                                    <p>Город кубанских мастеров</p>
+                                </div>
+                            </div>
+                            <div class="">
+                                <div class="about-img">
+                                    <img src="img/excursion/10.jpg" alt="">
+                                    <p>Кастальская купель</p>
+                                </div>
+                            </div>
+                            <div class="">
+                                <div class="about-img">
+                                    <img src="img/excursion/011.jpg" alt="">
+                                    <p>Дом вверх дном</p>
+                                </div>
+                            </div>
+                            <div class="">
+                                <div class="about-img">
+                                    <img src="img/excursion/12.jpeg" alt="">
+                                    <p>Начало аллеи</p>
+                                </div>
+                            </div>
+                            <div class="">
+                                <div class="about-img">
+                                    <img src="img/excursion/13.jpeg" alt="">
+                                    <p>Самая большая детская площадка Кабардинки</p>
+                                </div>
+                            </div>
+                            <div class="">
+                                <div class="about-img">
+                                    <img src="img/excursion/14.jpeg" alt="">
+                                    <p>Выброшенный на мель корабль Рио</p>
+                                </div>
+                            </div>
+                            <div class="">
+                                <div class="about-img">
+                                    <img src="img/excursion/15.jpeg" alt="">
+                                    <p>Локация скала</p>
+                                </div>
+                            </div>
+                            <div class="">
+                                <div class="about-img">
+                                    <img src="img/excursion/16.jpeg" alt="">
                                     <p>Набережная</p>
                                 </div>
                             </div>
                             <div class="">
                                 <div class="about-img">
-                                    <img src="img/home-about-2.jpg" alt="">
-                                    <p>Ледниковый период</p>
+                                    <img src="img/excursion/17.jpeg" alt="">
+                                    <p>Центральный пляж</p>
                                 </div>
                             </div>
                             <div class="">
                                 <div class="about-img">
-                                    <img src="img/home-about-3.jpg" alt="">
-                                    <p>Дельфинарий</p>
+                                    <img src="img/excursion/18.jpeg" alt="">
+                                    <p>Пляж галька</p>
                                 </div>
                             </div>
-                        </div> 
+                            <div class="">
+                                <div class="about-img">
+                                    <img src="img/excursion/19.jpeg" alt="">
+                                    <p>Набережная</p>
+                                </div>
+                            </div>
+                        </div>  
                     </div>
-                    <a href="#" class="primary-btn about__primary-btn">Узнать</a>
+                    <a href="tel:+79283026100" class="primary-btn about__primary-btn">Узнать</a>
                 </div>
 
             </div>

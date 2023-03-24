@@ -29,12 +29,14 @@
                             </div>
                         </div> -->
                         <div class="room-selector">
-                            <p>Room</p>
+                            <p>Номера</p>
                             <select class="suit-select">
-                                <option>Eg. Master suite</option>
-                                <option value="">Double Room</option>
-                                <option value="">Single Room</option>
-                                <option value="">Special Room</option>
+                                <option>выбрать номер</option>
+                                <option value="">Двухместный</option>
+                                <option value="">Трехместный</option>
+                                <option value="">Четырехместный</option>
+                                <option value="">Эконом класс</option>
+
                             </select>
                         </div>
                         <button type="submit">Найти номер</button>
