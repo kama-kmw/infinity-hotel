@@ -76,9 +76,14 @@ include_once 'includes/head.php'; ?>
                 <div class="col-lg-6">
                     <div class="ri-slider-item">
                         <div class="ri-sliders owl-carousel">
-                            <div class="single-img set-bg" data-setbg="img/rooms/room-1.jpg"></div>
-                            <div class="single-img set-bg" data-setbg="img/rooms/room-2.jpg"></div>
-                            <div class="single-img set-bg" data-setbg="img/rooms/room-3.jpg"></div>
+                            <div class="single-img set-bg" data-setbg="img/rooms/dvuh/4.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/rooms/dvuh/8.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/rooms/dvuh/3.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/rooms/dvuh/6.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/rooms/dvuh/9.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/rooms/dvuh/1.jpg"></div>
+                            <div class="single-img set-bg" data-setbg="img/rooms/dvuh/2.JPG"></div>
+                            <div class="single-img set-bg" data-setbg="img/rooms/dvuh/7.jpeg"></div>
                         </div>
                     </div>
                 </div>
@@ -125,9 +130,16 @@ include_once 'includes/head.php'; ?>
                 <div class="col-lg-6 order-lg-2">
                     <div class="ri-slider-item">
                         <div class="ri-sliders owl-carousel">
-                            <div class="single-img set-bg" data-setbg="img/rooms/room-2.jpg"></div>
-                            <div class="single-img set-bg" data-setbg="img/rooms/room-3.jpg"></div>
-                            <div class="single-img set-bg" data-setbg="img/rooms/room-4.jpg"></div>
+                            <div class="single-img set-bg" data-setbg="img/rooms/chetireh/1.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/rooms/chetireh/2.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/rooms/chetireh/3.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/rooms/chetireh/4.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/rooms/chetireh/5.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/rooms/chetireh/6.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/rooms/chetireh/7.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/rooms/chetireh/8.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/rooms/chetireh/9.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/rooms/chetireh/10.jpeg"></div>
                         </div>
                     </div>
                 </div>
@@ -174,9 +186,12 @@ include_once 'includes/head.php'; ?>
                 <div class="col-lg-6">
                     <div class="ri-slider-item">
                         <div class="ri-sliders owl-carousel">
-                            <div class="single-img set-bg" data-setbg="img/rooms/room-3.jpg"></div>
-                            <div class="single-img set-bg" data-setbg="img/rooms/room-4.jpg"></div>
-                            <div class="single-img set-bg" data-setbg="img/rooms/room-1.jpg"></div>
+                            <div class="single-img set-bg" data-setbg="img/rooms/chetireh/"></div>
+                            <div class="single-img set-bg" data-setbg="img/rooms/treh/2.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/rooms/treh/3.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/rooms/treh/4.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/rooms/treh/5.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/rooms/treh/6.jpeg"></div>
                         </div>
                     </div>
                 </div>
