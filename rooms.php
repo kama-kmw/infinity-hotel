@@ -92,7 +92,7 @@ include_once 'includes/head.php'; ?>
                         <div class="section-title">
                             <div class="section-title">
                                 <span>infinity hotel</span>
-                                <h2>Двухместный номер</h2>
+                                <h2>Эконом</h2>
                             </div>
                                 <p>Небольшой двухместный номер с 1-ой кроватью или  
                                     2-мя 
@@ -148,7 +148,7 @@ include_once 'includes/head.php'; ?>
                         <div class="section-title">
                             <div class="section-title">
                                 <span>infinity hotel</span>
-                                <h2>Трехместный номер</h2>
+                                <h2>Стандарт</h2>
                             </div>
                                 <p>Трехместный номер с 1-ой двуспальной кроватью и 
                                     1-ой 
@@ -177,7 +177,9 @@ include_once 'includes/head.php'; ?>
                                     <p>Трансфер</p>
                                 </div>
                             </div>
-                            <a href="#" class="primary-btn">Забронировать</a>
+                            <a href="#" class="primary-btn">Забронировать</a> <br>
+                            <br>
+                            <a href="desc-rooms.php" class="primary-more primary-btn-rooms">Подробнее</a>
                         </div>
                     </div>
                 </div>
@@ -200,7 +202,7 @@ include_once 'includes/head.php'; ?>
                         <div class="section-title">
                             <div class="section-title">
                             <span>infinity hotel</span>
-                                <h2>Четырехместный номер</h2>
+                                <h2>Люкс</h2>
                             </div>
                                 <p>Четырехместный номер с 1-ой двуспальной кроватью и 
                                     2-мя отдельными кроватями.
@@ -228,12 +230,14 @@ include_once 'includes/head.php'; ?>
                                     <p>Трансфер</p>
                                 </div>
                             </div>
-                            <a href="#" class="primary-btn">Забронировать</a>
+                            <a href="#" class="primary-btn">Забронировать</a> <br>
+                            <br>
+                            <a href="desc-rooms.php" class="primary-more primary-btn-rooms">Подробнее</a>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="row">
+            <!-- <div class="row">
                 <div class="col-lg-6 order-lg-2">
                     <div class="ri-slider-item">
                         <div class="ri-sliders owl-carousel">
@@ -275,11 +279,13 @@ include_once 'includes/head.php'; ?>
                                     <p>Трансфер</p>
                                 </div>
                             </div>
-                            <a href="#" class="primary-btn">Забронировать</a>
+                            <a href="#" class="primary-btn">Забронировать</a> <br>
+                            <br>
+                            <a href="desc-rooms.php" class="primary-more primary-btn-rooms">Подробнее</a>
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
     </section>
     <!-- Room Section End -->

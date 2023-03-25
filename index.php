@@ -16,8 +16,8 @@ include_once 'includes/head.php'; ?>
                     <div class="hero-text">
                         <h1>Скидка молодоженам на<br> медовый месяц  -10%</h1>
                     </div>
-                    <a href="#" class="primary-btn primary-btn-baner">Получить скидку</a>
-
+                    <a href="tel:+79283026100" class="primary-btn primary-btn-baner">Получить скидку</a>
+ 
                 </div>
             </div>
         </div>
@@ -36,7 +36,7 @@ include_once 'includes/head.php'; ?>
                     <div class="intro-left">
                         <div class="section-title">
                             <span>infinity otel</span>
-                            <h2>Пару слов<br />  об отеле</h2>
+                            <h2>Об отеле</h2>
                         </div>
                         <p>Современный отель «Infinity» соответствует высокому стандарту и предлагает отличные условия для комфортного отдыха. Каждый наш номер оснащен всем необходимым, а дружелюбный и отзывчивый персонал поможет вам в любом вопросе.</p>
                     </div>
@@ -106,7 +106,7 @@ include_once 'includes/head.php'; ?>
                 <div class="col-lg-6">
                     <div class="facilities-item set-bg" data-setbg="img/rooms/dvuhmestniy.jpeg">
                         <div class="fi-title">
-                            <h2>Двухместный номер</h2>
+                            <h2>Эконом</h2>
                             <p>от 2000р/сутки</p>
                             <p>1 двухспальная кровать</p>
                             <p>2 взрослых + 1 ребенок до 3-х лет</p>
@@ -142,7 +142,7 @@ include_once 'includes/head.php'; ?>
                 <div class="col-lg-6">
                     <div class="facilities-item set-bg" data-setbg="img/rooms/trehmestniy.jpeg">
                         <div class="fi-title">
-                            <h2>Трехместный номер</h2>
+                            <h2>Стандарт</h2>
                             <p>от 2500р/сутки</p>
                             <p>1 двухспальная кровать <br> и 1 односпальная</p>
                             <p>3 взрослых + 1 ребенок до 3-х лет</p>                        
@@ -178,7 +178,7 @@ include_once 'includes/head.php'; ?>
                 <div class="col-lg-6">
                     <div class="facilities-item set-bg" data-setbg="img/rooms/chetirehmestniy.jpeg">
                         <div class="fi-title">
-                            <h2>Четырехместный номер</h2>
+                            <h2>Люкс</h2>
                             <p>от 3000р/сутки</p>
                             <p>1 двухспальная кровать <br> и 2 односпальные</p>
                             <p>4 взрослых + 1 ребенок до 3-х лет</p>                        
@@ -211,7 +211,7 @@ include_once 'includes/head.php'; ?>
                     </div>
                 </div>
 
-                <div class="col-lg-6">
+                <!-- <div class="col-lg-6">
                     <div class="facilities-item set-bg" data-setbg="img/rooms/dvuhmestniy.jpeg">
                         <div class="fi-title">
                             <h2>Номер эконом класса</h2>
@@ -245,7 +245,7 @@ include_once 'includes/head.php'; ?>
                             <a href="desc-rooms.php" class="primary-btn primary-btn-rooms">Подробнее</a>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
             </div>
         </div>
@@ -257,13 +257,10 @@ include_once 'includes/head.php'; ?>
 
     <!-- Video Section Begin -->
     <div class="video-section">
-        <div class="video-bg set-bg" data-setbg="img/video-bg.jpg">
+        <!-- <div class="video-bg set-bg" data-setbg="img/video-bg.jpg">
         <div class="container">
-            <!-- <div class="video-text set-bg" data-setbg="img/video-inside-bg.jpg">
-                <a href="https://www.youtube.com/watch?v=j56YlCXuPFU" class="pop-up"><i class="fa fa-play"></i></a>
-            </div> -->
+           
 
-            <!-- <div class="col-lg-6"> -->
                 <div class="ri-slider-item main-slider-item">
                     <div class="ri-sliders owl-carousel">
                         <div class="single-img set-bg" data-setbg="img/rooms/room-1.jpg"></div>
@@ -271,9 +268,10 @@ include_once 'includes/head.php'; ?>
                         <div class="single-img set-bg" data-setbg="img/rooms/room-3.jpg"></div>
                     </div>
                  </div>
-            <!-- </div> -->
         </div>
-        </div>
+        </div> -->
+        <iframe src="https://yandex.ru/maps?ll=37.938699%2C44.656290&panorama%5Bpoint%5D=37.938699%2C44.656290&panorama%5Bdirection%5D=293.518188%2C-3.223383&panorama%5Bid%5D=1300054979_777004485_23_1654860455&panorama%5Bspan%5D=33.626648%2C80.000000" width="100%" height="430" frameborder="0">    
+            </iframe>
     </div>
     <!-- Video Section End -->
 

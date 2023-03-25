@@ -26,4 +26,4 @@
     <link rel="stylesheet" href="css/faq.css" type="text/css">
     <link rel="stylesheet" href="css/style.css" type="text/css">
     <link rel="stylesheet" href="css/popup.css" type="text/css">
-</head>
+</head> 

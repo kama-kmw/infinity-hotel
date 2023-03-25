@@ -10,13 +10,12 @@
                 <nav class="main-menu mobile-menu">
                     <ul>
                         <li class="active"><a href="/">Главная</a></li>
-                        <li><a href="/about-us.html">О нас</a></li>
+                        <li><a href="/about-us.php">О нас</a></li>
                         <li><a href="/rooms.php">Номера</a>
                             <ul class="drop-menu">
-                                <li><a href="/about-us.html">Двухместный</a></li>
-                                <li><a href="/rooms.html">Трехместный</a></li>
-                                <li><a href="/services.html">Четырехместный</a></li>
-                                <li><a href="/services.html">Эконом класс</a></li>
+                                <li><a href="/desc-rooms.php">Эконом</a></li>
+                                <li><a href="/desc-rooms.php">Стандарт</a></li>
+                                <li><a href="/desc-rooms.php">Люкс</a></li>
 
                             </ul></li>
                         <!-- <li><a href="#">Pages</a>

@@ -55,11 +55,17 @@
                 <div class="footer-item">
                     <h5>Соц. ссылки</h5>
                     <ul>
-                        <li><img src="img/icon/vk.png"><a href="https://vk.com/id717806161" target="_blank">В Контакте</a></li>
-                        <li><img src="img/icon/ok.png"><a href="https://ok.ru/profile/586878645961" target="_blank">Одноклассники</a></li>
-                        <li><img src="img/icon/whatsapp.png"><a href="whatsapp://send?phone=+79614811118" target="_blank">WhatsApp</a></li>
-                        <li><img src="img/icon/telegram.png"><a href="https://tlgg.ru/arthotel2018" target="_blank">Telegram</a></li>
-                        <li><img src="img/icon/mail.png"><a href="mailto:art.hotel.essentuki@mail.ru" target="_blank">Почта</a></li>
+                        <li class='footer-item__sosial'>
+                            <i class='bx bxl-whatsapp'></i>                            <a href="https://wa.me/79283016100" target="_blank">WhatsApp</a>
+                        </li>
+                        <li class='footer-item__sosial'>
+                            <i class='bx bxl-telegram'></i>                            <a href="https://t.me/tokhmakhova" target="_blank">Telegram</a>
+                        </li>
+
+                        <li class='footer-item__sosial'>
+                            <i class='bx bxl-instagram'></i>
+                            <a href="https://instagram.com/infinity_hotel_kabardinka?utm_medium=copy_link" target="_blank">instagram</a>
+                        </li>
                     </ul>
                 </div>
             </div>

@@ -801,6 +801,14 @@ ol {
   z-index: 2;
 }
 
+.primary-more {
+  color: #ed8a19;
+}
+
+.primary-more:hover {
+  color: #ed8a19;
+}
+
 .facilities-item .fi-features .fi-info i {
   color: #ffffff;
 }
@@ -1133,6 +1141,36 @@ ol {
   position: relative;
   padding-left: 25px;
   margin-bottom: 11px;
+  
+}
+
+.footer-item ul .footer-item__sosial {
+  list-style: none;
+  color: #9d9d9d;
+  line-height: 24px;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  position: relative;
+  padding-left: 25px;
+  display: flex;
+  
+}
+
+.footer-item ul li i {
+
+  list-style: none;
+  color: #f9ad81;
+  line-height: 24px;
+  font-size: 22px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  position: relative;
+  margin-bottom: 11px;
+  position: absolute;
+  left: 0;
+  top: 4px;
+  margin-bottom: 0;
 }
 
 .footer-item ul li img {
@@ -1150,6 +1188,18 @@ ol {
   letter-spacing: 0.5px;
   position: relative;
   margin-bottom: 11px;
+}
+
+.footer-item ul .footer-item__sosial a {
+  list-style: none;
+  color: #f9ad81;
+  line-height: 24px;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  position: relative;
+  margin-top: 4px;
+  margin-bottom: 0;
 }
 
 .footer-item .footer__link {
@@ -1245,6 +1295,8 @@ ol {
 
 .about-us {
   padding-top: 175px;
+  padding-top: 100px;
+
   padding-bottom: 70px;
 }
 
@@ -1282,7 +1334,9 @@ ol {
 
 .milestone-counter {
   padding-top: 140px;
+  margin-top: 0;
 }
+
 
 .mc-item {
   margin-bottom: 30px;
@@ -1455,7 +1509,8 @@ ol {
 .section-rooms-bottom {
   max-width: 100%;
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr;
+  
 }
 
 .section-rooms__date {
@@ -1475,9 +1530,27 @@ ol {
 
 .section-rooms__item {
   display: flex;
-  justify-content: space-between;
+  gap: 35%;
   align-items: center;
   padding: 30px;
+  
+}
+
+.section-rooms__item p {
+  width: 220px;
+
+}
+
+.section-rooms__item:first-child {
+  background: #f9ad81;
+}
+
+.section-rooms__item:nth-child(2n+3) {
+  background: #f7f7f4;
+}
+
+.section-rooms__item p:nth-child(2) {
+  width: 150px;
 }
 
 .bg-grey {
@@ -1973,6 +2046,7 @@ ol {
 }
 
 .info-box img {
+  width: 200px;
   margin-bottom: 35px;
 }
 
@@ -2451,6 +2525,27 @@ ol {
   }
 }
 
+@media only screen and (max-width: 685px) {
+  .section-rooms__item {
+    display: flex;
+    gap: 25%;
+    align-items: center;
+    padding: 30px;
+    
+  }
+  
+  .section-rooms__item p {
+    width: 180px;
+  
+  }
+  
+  .section-rooms__item p:nth-child(2) {
+    width: 150px;
+  }
+}
+
+
+
 @media only screen and (max-width: 582px) {
   .about-gallery {
     display: grid;
@@ -2474,6 +2569,23 @@ ol {
     display: grid;
     grid-template-columns: 400px;
     gap: 10px;
+  }
+
+  .section-rooms__item {
+    display: flex;
+    gap: 10%;
+    align-items: center;
+    padding: 30px;
+    
+  }
+  
+  .section-rooms__item p {
+    width: 150px;
+  
+  }
+  
+  .section-rooms__item p:nth-child(2) {
+    width: 150px;
   }
 }
 
@@ -2535,6 +2647,19 @@ ol {
   .section-rooms__list {
     grid-template-columns: 1fr;
   }
+
+  .section-rooms__item {
+    display: flex;
+    gap: 5%;
+    align-items: center;
+    padding: 10px;
+    
+  }
+  
+  .section-rooms__item p {
+    width: 150px;
+  
+  }
 }
 
 @media only screen and (max-width: 414px) {
@@ -2552,6 +2677,46 @@ ol {
 
   .section-title h2 {
     font-size: 24px;
+  }
+
+  .section-rooms__item {
+    display: flex;
+    gap: 3%;
+    align-items: center;
+    padding: 10px;
+    
+  }
+  
+  .section-rooms__item p {
+    width: 130px;
+    font-size: 14px;
+  
+  }
+
+  .section-rooms__item p:nth-child(2) {
+    width: 150px;
+  }
+}
+
+
+@media only screen and (max-width: 350px) {
+ 
+ .section-rooms__item {
+    display: flex;
+    gap: 3%;
+    align-items: center;
+    padding: 10px;
+    
+  }
+  
+  .section-rooms__item p {
+    width: 120px;
+    font-size: 12px;
+  
+  }
+
+  .section-rooms__item p:nth-child(2) {
+    width: 145px;
   }
 }
 

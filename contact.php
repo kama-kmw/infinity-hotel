@@ -20,79 +20,19 @@ include_once 'includes/head.php'; ?>
     </div>
     <!-- Hero Area Section End -->
 
-    <!-- Search Filter Section Begin -->
-    <section class="search-filter other-page-filter">
-        <div class="container">
-         <div class="row">
-                <div class="col-lg-12">
-                    <form action="#" class="check-form">
-                        <h4>Бронирование номеров</h4>
-                        <div class="datepicker">
-                            <p>Заезд</p>
-                            <input type="text" class="datepicker-1" value="дд / мм / гггг">
-                            <img src="img/calendar.png" alt="">
-                        </div>
-                        <div class="datepicker">
-                            <p>Выезд</p>
-                            <input type="text" class="datepicker-2" value="дд / мм / гггг">
-                            <img src="img/calendar.png" alt="">
-                        </div>
-                        <!-- <div class="room-quantity">
-                            <div class="single-quantity">
-                                <p>Adults</p>
-                                <div class="pro-qty"><input type="text" value="0"></div>
-                            </div>
-                            <div class="single-quantity">
-                                <p>Children</p>
-                                <div class="pro-qty"><input type="text" value="0"></div>
-                            </div>
-                            <div class="single-quantity last">
-                                <p>Rooms</p>
-                                <div class="pro-qty"><input type="text" value="0"></div>
-                            </div>
-                        </div> -->
-                        <div class="room-selector">
-                            <p>Номера</p>
-                            <select class="suit-select">
-                                <option>выбрать номер</option>
-                                <option value="">Двухместный</option>
-                                <option value="">Трехместный</option>
-                                <option value="">Четырехместный</option>
-                                <option value="">Эконом класс</option>
-
-                            </select>
-                        </div>
-                        <button type="submit">Найти номер</button>
-                    </form>
-                </div>
-            </div>
-        </div>
-    </section> 
-    <!-- Search Filter Section End -->
-
     <!-- Contact Section Begin -->
     <section class="contact-section spad">
         <div class="container">
             <div class="row">
                 <div class="contact-section-top">
-                    <div class="">
-                        <div class="contact-title">
-                            <div class="section-title">
-                                <span>infinity hotel</span>
-                                <h2>Современный и уютный отель 
-                                    <br />в г. Геленджик
-                                </h2>
-                                <div class="section-contact__btn">
-                                    <a href="#" class="primary-btn">Выбрать номера</a>
-                                </div>
+                    <div class="col-lg-10">
+                            <iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3A97e6f57c0fda48b9bbe0532cca22ad71bd32738d7f9bcc26ebe21434632120f9&amp;source=constructor" width="100%" height="352" frameborder="0"></iframe>
 
-                            </div>
-                        </div>
                     </div>
 
                     <div class="col-lg-4">
                         <div class="info-box">
-                            <img src="img/contact-logo.png" alt="">
+                            <img src="img/121_6.svg" alt="">
                             <ul>
                                 <li>Краснодарский край <br />
                                     город Геленджик <br>
@@ -104,12 +44,9 @@ include_once 'includes/head.php'; ?>
                                 <!-- <li>Заезд:  12:00</li> -->
                             </ul>
                             <div class="social-links">
-                                <a href="#"><i class="fa fa-facebook"></i></a>
-                                <a href="#"><i class="fa fa-instagram"></i></a>
-                                <a href="#"><i class="fa fa-linkedin"></i></a>
-                                <a href="#"><i class="fa fa-pinterest"></i></a>
-                                <a href="#"><i class="fa fa-twitter"></i></a>
-                                <a href="#"><i class="fa fa-youtube-play"></i></a>
+                                <a href="https://instagram.com/infinity_hotel_kabardinka?utm_medium=copy_link"><i class="fa fa-instagram"></i></a>
+                                <a href="https://t.me/tokhmakhova"><i class="fa fa-telegram"></i></a>
+                                <a href="https://wa.me/79283016100"><i class="fa fa-whatsapp"></i></a>
                             </div>
                         </div>
                     </div>
@@ -161,14 +98,7 @@ include_once 'includes/head.php'; ?>
     <!-- Contact Section End -->
 
     <!-- Map Section Begin -->
-    <div class="map">
-<!-- 
-    <iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3A87c647e889d50588f8b6be0a0d3e77b10b7bc82098b71b4523d12386458fd55d&amp;source=constructor" width="100%" height="400" frameborder="0">
-    </iframe> -->
-    <iframe src="https://yandex.ru/maps?ll=37.938699%2C44.656290&panorama%5Bpoint%5D=37.938699%2C44.656290&panorama%5Bdirection%5D=293.518188%2C-3.223383&panorama%5Bid%5D=1300054979_777004485_23_1654860455&panorama%5Bspan%5D=33.626648%2C80.000000" width="100%" height="430" frameborder="0">    
-    </iframe>
-   
-    </div>
+ 
     <!-- Map Section End -->
 
     <!-- Footer Section Begin -->

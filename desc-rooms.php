@@ -141,61 +141,40 @@ include_once 'includes/head.php'; ?>
                         </div>
 
                         <div class="section-rooms-bottom">
-                            <div class="section-rooms__item bg-main-color">
-                                Дата
+                            <div class="section-rooms__item">
+                                <p>Дата</p>
+                                <p>Цена</p>
                             </div>
-
-                            <div class="section-rooms__item bg-main-color">
-                                Цена
+                            <div class="section-rooms__item">
+                                <p>май</p>
+                                <p>2000 р./сутки</p>    
                             </div>
 
                             <div class="section-rooms__item">
-                                май
+                                <p>июнь (01.06-15.06)</p>
+                                <p>2500 р./сутки</p>    
                             </div>
 
                             <div class="section-rooms__item">
-                                2000 р./сутки
-                            </div>
-
-                            <div class="section-rooms__item bg-grey">
-                                июнь (01.06-15.06)
-                            </div>
-
-                            <div class="section-rooms__item bg-grey">
-                                2500 р./сутки
-                            </div>
-
+                                <p>июнь (16.06-30.06)</p>
+                                <p>3300 р./сутки</p>    
+                            </div>   
+                            
                             <div class="section-rooms__item">
-                                июнь (16.06-30.06)
-                            </div>
-
+                                <p>июль - август</p>
+                                <p>3500 р./сутки</p>    
+                            </div>       
+                            
                             <div class="section-rooms__item">
-                                3300 р./сутки
-                            </div>
-
-                            <div class="section-rooms__item bg-grey">
-                                июль - август
-                            </div>
-
-                            <div class="section-rooms__item bg-grey">
-                                3500 р./сутки
-                            </div>
-
+                                <p>сентябрь (01.09-10.09)</p>
+                                <p>3000 р./сутки</p>    
+                            </div> 
+                            
                             <div class="section-rooms__item">
-                                сентябрь (01.09-10.09)
-                            </div>
+                                <p>сентябрь (11.09-01.10)</p>
+                                <p>2500 р./сутки</p>    
+                            </div>                            
 
-                            <div class="section-rooms__item">
-                                3000 р./сутки
-                            </div>
-
-                            <div class="section-rooms__item bg-grey">
-                                сентябрь (11.09-01.10)
-                            </div>
-
-                            <div class="section-rooms__item bg-grey">
-                                2500 р./сутки
-                            </div>
                         </div>
 
                         <div class="section-rooms-equipment">
