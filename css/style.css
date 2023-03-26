@@ -962,7 +962,7 @@ ol {
   margin-top: 0;
   margin-bottom: 30px;
   margin-top: 16px;
-  text-align: center;
+  /* text-align: center; */
 }
 
 .homepage-about .about-text p {

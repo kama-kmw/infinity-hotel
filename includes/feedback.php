@@ -1,7 +1,7 @@
 <section class="testimonial-section spad">
    <div class="container">
       <div class="row">
-         <div class="section-title">
+         <div class="section-title col-lg-12">
             <h2>Гостевая книга</h2>
          </div>
       </div>
