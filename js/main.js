@@ -102,7 +102,7 @@
         margin: 0,
         nav: false,
         items: 1,
-        dots: true,
+        dots: false,
         // animateOut: 'fadeOut',
         // animateIn: 'fadeIn',
         // navText: ['<i class="fa fa-angle-left"></i>', '<i class="fa fa-angle-right"></i>'],

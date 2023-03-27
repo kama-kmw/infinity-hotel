@@ -1469,6 +1469,7 @@ ol {
 
 .slider-main {
   margin-top: 50px;
+  position: relative;
 }
 
 /*---------------------
@@ -1498,6 +1499,28 @@ ol {
 .ri-slider-item .slider-main-ri .single-img {
   height: 434px;
 }
+
+.ri-slider-item .slider-main-ri .single-img::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(30, 35, 40, 0.4);
+
+}
+
+.ri-slider-item .slider-main-ri .single-img p {
+  position: absolute;
+  bottom: 20px;
+  color: #fff;
+  margin-bottom: 0;
+  font-size: 16px;
+  font-weight: 700;
+  margin-left: 10px;
+}
+
 
 /* .main-slider-item {
 	display: flex;
@@ -1674,6 +1697,32 @@ ol {
 }
 
 .ri-sliders .owl-dots .owl-dot:last-child {
+  margin-right: 0;
+}
+
+.slider-main-ri .owl-dots {
+  position: absolute;
+  left: 0;
+  bottom: 48px;
+  text-align: center;
+  width: 100%;
+}
+
+.slider-main-ri .owl-dots .owl-dot {
+  width: 8px;
+  height: 8px;
+  background: #fff;
+  border-radius: 50%;
+  margin-right: 15px;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.slider-main-ri .owl-dots .owl-dot.active {
+  background: #f9ad81;
+}
+
+.slider-main-ri .owl-dots .owl-dot:last-child {
   margin-right: 0;
 }
 

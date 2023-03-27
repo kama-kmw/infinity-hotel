@@ -310,41 +310,75 @@ include_once 'includes/head.php'; ?>
                         <div class="slider-main-ri owl-carousel ">
                           
                             <div class="single-img set-bg" data-setbg="img/excursion/009.jpeg">
-                            <p>Набережная</p>
+                            <p>Центральный пляж</p>
                             </div>
-                            <div class="single-img set-bg" data-setbg="img/excursion/010.jpeg"></div>
-                            <div class="single-img set-bg" data-setbg="img/excursion/011.jpg"></div>
-                            <div class="single-img set-bg" data-setbg="img/excursion/013.jpeg"></div>
-                            <div class="single-img set-bg" data-setbg="img/excursion/1.jpg"></div>
-                            <div class="single-img set-bg" data-setbg="img/excursion/10.jpg"></div>
-                            <div class="single-img set-bg" data-setbg="img/excursion/11.jpg"></div>
-                            <div class="single-img set-bg" data-setbg="img/excursion/12.jpeg"></div>
-                            <div class="single-img set-bg" data-setbg="img/excursion/12.jpeg"></div>
-                            <div class="single-img set-bg" data-setbg="img/excursion/13.jpeg"></div>
-                            <div class="single-img set-bg" data-setbg="img/excursion/14.jpeg"></div>
-                            <div class="single-img set-bg" data-setbg="img/excursion/15.jpeg"></div>
-                            <div class="single-img set-bg" data-setbg="img/excursion/16.jpeg"></div>
-                            <div class="single-img set-bg" data-setbg="img/excursion/17.jpeg"></div>
-                            <div class="single-img set-bg" data-setbg="img/excursion/18.jpeg"></div>
-                            <div class="single-img set-bg" data-setbg="img/excursion/19.jpeg"></div>
-                            <div class="single-img set-bg" data-setbg="img/excursion/2.jpeg"></div>
-                            <div class="single-img set-bg" data-setbg="img/excursion/20.jpg"></div>
-                            <div class="single-img set-bg" data-setbg="img/excursion/3.jpeg"></div>
-                            <div class="single-img set-bg" data-setbg="img/excursion/4.jpg"></div>
-                            <div class="single-img set-bg" data-setbg="img/excursion/5.jpg"></div>
-                            <div class="single-img set-bg" data-setbg="img/excursion/6.jpeg"></div>
-                            <div class="single-img set-bg" data-setbg="img/excursion/7.jpeg"></div>
-                            <div class="single-img set-bg" data-setbg="img/excursion/8.jpeg"></div>
-                            <div class="single-img set-bg" data-setbg="img/excursion/9.jpg"></div>
+                            <div class="single-img set-bg" data-setbg="img/excursion/010.jpeg">
+                            <p>Пляж галька</p>
+                            </div>
+                            <div class="single-img set-bg" data-setbg="img/excursion/011.jpg">
+                                <p>Дом вверх дном</p>
+                            </div>
+                            <div class="single-img set-bg" data-setbg="img/excursion/013.jpeg">
+                                <p>Локация скала</p>
+                            </div>
+                            <div class="single-img set-bg" data-setbg="img/excursion/1.jpg">
+                                <p>Памятник погибшим на пароходе «Адмирал Нахимов»</p>
+                            </div>
+                            <div class="single-img set-bg" data-setbg="img/excursion/10.jpg">
+                                <p>Кастальская купель</p>
+                            </div>
+                            <div class="single-img set-bg" data-setbg="img/excursion/11.jpg">
+                                <p>Набережная</p>
+                            </div>
+                            <div class="single-img set-bg" data-setbg="img/excursion/12.jpeg">
+                                <p>Начало аллеи</p>
+                            </div>
+                            <div class="single-img set-bg" data-setbg="img/excursion/13.jpeg">
+                                <p>Самая большая детская площадка Кабардинки</p>
+                            </div>
+                            <div class="single-img set-bg" data-setbg="img/excursion/14.jpeg">
+                                <p>Выброшенный на мель корабль Рио</p>
+                            </div>
+                            <div class="single-img set-bg" data-setbg="img/excursion/16.jpeg">
+                                <p>Набережная</p>
+                            </div>
                            
+                          
+                            <div class="single-img set-bg" data-setbg="img/excursion/19.jpeg">
+                                <p>Набережная</p>
+                            </div>
 
+                            <div class="single-img set-bg" data-setbg="img/excursion/2.jpeg">
+                                <p>Ледниковый период</p>
+                            </div>
 
+                            <div class="single-img set-bg" data-setbg="img/excursion/20.jpg">
+                                <p>Мастерская стекла</p>
+                            </div>
 
-
-                            <div class="single-img set-bg" data-setbg="img/sliderMain/2.jpeg"></div>
-                            <div class="single-img set-bg" data-setbg="img/sliderMain/001.jpeg"></div>
-                            <div class="single-img set-bg" data-setbg="img/sliderMain/003.jpeg"></div>
-                            <div class="single-img set-bg" data-setbg="img/sliderMain/14.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/excursion/3.jpeg">
+                                <p>Динопарк</p>
+                            </div>
+                            <div class="single-img set-bg" data-setbg="img/excursion/4.jpg">
+                                <p>Дельфинарий</p>
+                            </div>
+                            <div class="single-img set-bg" data-setbg="img/excursion/5.jpg">
+                                <p>Культурный центр «Старый парк»</p>
+                            </div>
+                           
+                            <div class="single-img set-bg" data-setbg="img/excursion/7.jpg">
+                                <p>Веревочный парк узелок</p>
+                            </div>
+                            <div class="single-img set-bg" data-setbg="img/excursion/8.jpeg">
+                                <p>Крокодиловый каньон</p>
+                            </div>
+                            <div class="single-img set-bg" data-setbg="img/excursion/9.jpg">
+                                <p>Город кубанских мастеров</p>
+                            </div>
+                           
+                        
+                         
+                           
                         </div>
                     </div>
                 </div>
