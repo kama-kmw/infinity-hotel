@@ -10,14 +10,14 @@ include_once 'includes/head.php'; ?>
     <!-- Header End -->
 
     <!-- Hero Area Section Begin -->
-    <section class="hero-area hero-area-main set-bg" data-setbg="img/baner2.jpeg">
+    <section class="hero-area hero-area-main set-bg" data-setbg="img/zeny-rosalina-lZWwcP.jpg">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <div class="hero-text">
-                        <h1>Скидка молодоженам на<br> медовый месяц -10%</h1>
+                        <h1>Хотите забронировать<br> максимально выгодно?</h1>
                     </div>
-                    <a href="tel:+79283026100" class="primary-btn primary-btn-baner">Получить скидку</a>
+                    <a href="tel:+79283026100" class="primary-btn primary-btn-baner">Забронировать с выгодой</a>
 
                 </div>
             </div>
@@ -28,7 +28,32 @@ include_once 'includes/head.php'; ?>
     <!-- Search Filter Section Begin -->
     <?php include 'includes/search-filter.php'; ?>
     <!-- Search Filter Section End -->
+    <section class='slider-main'>
+        <div class="col-lg-12">
+                    <div class="ri-slider-item ">
+                        <div class="slider-main-ri owl-carousel ">
+                            <div class="single-img set-bg" data-setbg="img/sliderMain/17.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/sliderMain/14.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/sliderMain/13.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/sliderMain/12.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/sliderMain/11.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/sliderMain/10.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/sliderMain/9.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/sliderMain/8.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/sliderMain/7.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/sliderMain/6.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/sliderMain/5.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/sliderMain/4.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/sliderMain/3.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/sliderMain/2.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/sliderMain/001.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/sliderMain/003.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/sliderMain/14.jpeg"></div>
+                        </div>
+                    </div>
+                </div>
 
+    </section>
     <!-- Intro Text Section Begin -->
     <section class="intro-section spad">
         <div class="container">
@@ -278,7 +303,54 @@ include_once 'includes/head.php'; ?>
                 <p class='text-center'>Если вам станет скучно, просто оглянитесь вокруг!
                 </p>
             </div>
-            <div class="d-flex flex-column align-items-center">
+
+            <section class='slider-main'>
+        <div class="col-lg-12">
+                    <div class="ri-slider-item ">
+                        <div class="slider-main-ri owl-carousel ">
+                          
+                            <div class="single-img set-bg" data-setbg="img/excursion/009.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/excursion/010.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/excursion/011.jpg"></div>
+                            <div class="single-img set-bg" data-setbg="img/excursion/013.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/excursion/1.jpg"></div>
+                            <div class="single-img set-bg" data-setbg="img/excursion/10.jpg"></div>
+                            <div class="single-img set-bg" data-setbg="img/excursion/11.jpg"></div>
+                            <div class="single-img set-bg" data-setbg="img/excursion/12.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/excursion/12.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/excursion/13.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/excursion/14.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/excursion/15.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/excursion/16.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/excursion/17.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/excursion/18.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/excursion/19.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/excursion/2.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/excursion/20.jpg"></div>
+                            <div class="single-img set-bg" data-setbg="img/excursion/3.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/excursion/4.jpg"></div>
+                            <div class="single-img set-bg" data-setbg="img/excursion/5.jpg"></div>
+                            <div class="single-img set-bg" data-setbg="img/excursion/6.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/excursion/7.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/excursion/8.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/excursion/9.jpg"></div>
+                           
+
+
+
+
+                            <div class="single-img set-bg" data-setbg="img/sliderMain/2.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/sliderMain/001.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/sliderMain/003.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/sliderMain/14.jpeg"></div>
+                        </div>
+                    </div>
+                </div>
+
+    </section>
+
+
+            <!-- <div class="d-flex flex-column align-items-center">
                 <div class="row d-flex justify-content-center">
                     <div class="about-gallery">
                         <div class="">
@@ -404,7 +476,7 @@ include_once 'includes/head.php'; ?>
                     </div>
                 </div>
                 <a href="tel:+79283026100" class="primary-btn about__primary-btn">Узнать</a>
-            </div>
+            </div> -->
 
         </div>
     </section>

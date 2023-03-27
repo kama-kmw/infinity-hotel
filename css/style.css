@@ -151,7 +151,7 @@ ol {
   background-position: top center;
 }
 
-.hero-area-main::before {
+/* .hero-area-main::before {
   content: '';
   position: absolute;
   top: 0;
@@ -160,7 +160,7 @@ ol {
   bottom: 0;
   background-color: rgba(30, 35, 40, 0.4);
   z-index: 100;
-}
+} */
 
 .spad {
   padding-top: 100px;
@@ -447,6 +447,7 @@ ol {
   font-size: 96px;
   font-size: 46px;
   color: #ffffff;
+  color: #000;
   font-weight: 600;
   position: relative;
   z-index: 1000;
@@ -1466,6 +1467,10 @@ ol {
   background: #242424;
 }
 
+.slider-main {
+  margin-top: 50px;
+}
+
 /*---------------------
   Room Section
 -----------------------*/
@@ -1476,6 +1481,22 @@ ol {
 
 .ri-slider-item .ri-sliders .single-img {
   height: 796px;
+}
+
+/* .main-slider-item {
+	display: flex;
+	justify-content: center;
+} */
+
+/* main slaider */
+.main-slider-item .slider-main-ri .single-img {
+  margin: 0 auto;
+  width: 500px;
+  height: 534px;
+}
+
+.ri-slider-item .slider-main-ri .single-img {
+  height: 434px;
 }
 
 /* .main-slider-item {
