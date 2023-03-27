@@ -305,7 +305,7 @@ include_once 'includes/head.php'; ?>
             </div>
 
             <section class='slider-main'>
-        <div class="col-lg-12">
+                <div class="col-lg-12">
                     <div class="ri-slider-item ">
                         <div class="slider-main-ri owl-carousel ">
                           
