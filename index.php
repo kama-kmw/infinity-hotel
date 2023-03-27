@@ -309,7 +309,9 @@ include_once 'includes/head.php'; ?>
                     <div class="ri-slider-item ">
                         <div class="slider-main-ri owl-carousel ">
                           
-                            <div class="single-img set-bg" data-setbg="img/excursion/009.jpeg"></div>
+                            <div class="single-img set-bg" data-setbg="img/excursion/009.jpeg">
+                            <p>Набережная</p>
+                            </div>
                             <div class="single-img set-bg" data-setbg="img/excursion/010.jpeg"></div>
                             <div class="single-img set-bg" data-setbg="img/excursion/011.jpg"></div>
                             <div class="single-img set-bg" data-setbg="img/excursion/013.jpeg"></div>
